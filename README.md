@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/ArmedRabbit/readme-typing-svg">
+  <a href="https://github.com/CodeMaster1025/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;Good+Team-Player;Build+Trustness;Passionate%20Developer;Specialized%20in%20JavaScript%20and%20TypeScript;React,%20Vue,%20Angular%20for%20the%20Front-End;Node.js,%20Python%20PHP%20for%20the%20Back-End;Always%20learning%20new%20things&center=true&width=500&height=60">
   </a>
 </p>
@@ -7,7 +7,7 @@
 #    
 <br />
 <p>
-  <img align="right" width="50%" src="programmer.gif" alt="ArmedRabbit" />
+  <img align="right" width="50%" src="programmer.gif" alt="CodeMaster1025" />
 </p>
 
 <p>
@@ -26,12 +26,12 @@
 
 #
 <p align='center'>
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=ArmedRabbit&theme=darkmode&data=followers,repositories,stars,commits' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=CodeMaster1025&theme=darkmode&data=followers,repositories,stars,commits' />
 </p>
 
 #
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArmedRabbit&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="Armed Rabbit's activity graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeMaster1025&theme=merko&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="Armed Rabbit's activity graph">
 </p>
 
 
